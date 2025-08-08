@@ -136,10 +136,10 @@
 
 - Clonar o repositório (se aplicável) ou criar um novo projeto Expo:
   - Clonar o repositório:
-    - ```git clone 'link-do-repo'```
+    - ```git clone 'https://github.com/danillo1234/estacio-sa-student-management-app.git'```
 
 - Acessar diretório clonado
-  - ```cd nome-do-diretorio```
+  - ```cd estacio-sa-student-management-app```
 
 - Instalar as dependências:
   - ```npm install```
@@ -173,3 +173,4 @@
 - [AsyncStorage](https://reactnative.dev/docs/asyncstorage)
 
 - [Expo](https://expo.dev/)
+

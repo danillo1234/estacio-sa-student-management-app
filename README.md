@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td>
-      <img src="./assets/images/screen-user-login.png" alt="Tela Login do Usuário" width="200" />
+      <img src="../student-management-app/assets/images/screen-user-login.png" alt="Tela Login do Usuário" width="200" />
     </td>
   </tr>
 </table>
@@ -173,3 +173,4 @@
 - [AsyncStorage](https://reactnative.dev/docs/asyncstorage)
 
 - [Expo](https://expo.dev/)
+
